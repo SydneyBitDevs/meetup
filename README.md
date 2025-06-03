@@ -1,23 +1,29 @@
 Please post any noteworthy topics for next month in the [GitHub issue](https://github.com/MelbourneBitDevs/MelbBitDevs/issues)!
 
-## Melbourne Bitdevs
+# MelbBitDevs
 
-Melbourne Bitdevs is on the last thursday of every month at the RMIT Blockchain Hub from 6pm with topics starting at 6:30pm.
+Melbourne Bitdevs is held on the last Thursday of every month at 6PM.
 
-**[Join the telegram](https://t.me/+6B_js_rFZ0syY2E1) in order to be let upstairs!**
+As a group, we discuss the latest Bitcoin news from a technical perspective. Sometimes diverging into adjacent fields of privacy, self hosting, free software, and more!
 
-As a group, we discuss the latest Bitcoin news from a technical perspective. Sometimes we diverge into adjacent fields of privacy, self hosting, free software, and more!
+**[See the meetup page](https://www.meetup.com/melbourne-bitcoin-only) to join our group and confirm event details!**
 
-Privacy of attendees is respected, no photos/recordings.
+Please feel free to ping someone in the community if joining approval is taking too long!
 
-## Add topics to discuss this month!
+## News items for this month
 
-Please share any noteworthy topics for next month in the [GitHub issue](https://github.com/MelbourneBitDevs/MelbBitDevs/issues)! We're open to discussing pretty much anything Bitcoin, news, free software, tech, privacy, or related!
+Please suggest any noteworthy topics for next month in the [GitHub issue](https://github.com/MelbourneBitDevs/MelbBitDevs/issues)! We're open to discussing pretty much anything Bitcoin or Bitcoin-adjacent!
 
-## Past Topics
+## Things to note
 
-Topics from past meetings can be found on the [bitdevs.com.au](https://bitdevs.com.au/) website.
+Attendence is often larger than meetup page RSVPs.
 
-## Group Activity
+This event is not streamed online, to preserve free discussion, atmosphere, engagement, and community.
 
-In the past we have occasionally tried new software or tutorials as a group, see [group-activity.md](group-activity.md).
+To facillitate optimal free and open discussion, privacy of attendees is taken seriously, absolutely no photos/recordings without explicit consent from all parties. [Chatham house rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) applies.
+
+---
+
+## Group Activities
+
+We aim to occasionally try new software or tutorials as a group, building applicable skills within a supportive group environment. It may be useful to bring a laptop machine along with you! MacOS or Linux preferred (for windows [you could use a virtual machine](https://www.makeuseof.com/tag/install-linux-windows-vmware-virtual-machine/)).
