@@ -26,4 +26,4 @@ To facillitate optimal free and open discussion, privacy of attendees is taken s
 
 ## Group Activities
 
-We aim to occasionally try new software or tutorials as a group, building applicable skills within a supportive group environment. It may be useful to bring a laptop machine along with you! MacOS or Linux preferred (for windows [you could use a virtual machine](https://www.makeuseof.com/tag/install-linux-windows-vmware-virtual-machine/)).
+We aim to occasionally try new software or tutorials as a group, see [group-activity.md](group-activity.md), building applicable skills within a supportive group environment. It may be useful to bring a laptop machine along with you! MacOS or Linux preferred (for windows [you could use a virtual machine](https://www.makeuseof.com/tag/install-linux-windows-vmware-virtual-machine/)).
