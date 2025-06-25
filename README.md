@@ -6,7 +6,7 @@ Sydney Bitdevs is held on the 4th week of the month, normally on Tuesday, Wednes
 
 As a group, we discuss the latest Bitcoin news from a technical perspective. Sometimes diverging into adjacent fields of privacy, self hosting, free software, and more!
 
-**[See the meetup page]([https://www.meetup.com/bitcoin_sydney/]) to join our group and confirm event details!**
+**[See the meetup page](https://www.meetup.com/bitcoin_sydney/) to join our group and confirm event details!**
 
 Please feel free to ping someone in the community if joining approval is taking too long!
 
