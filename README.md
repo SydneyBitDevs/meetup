@@ -1,18 +1,18 @@
-Please post any noteworthy topics for next month in the [GitHub issue](https://github.com/MelbourneBitDevs/MelbBitDevs/issues)!
+Please post any noteworthy topics for next month in the [GitHub issue](https://github.com/SydneyBitDevs/meetup/issues)!
 
-# MelbBitDevs
+# SydneyBitDevs
 
-Melbourne Bitdevs is held on the last Thursday of every month at 6PM.
+Sydney Bitdevs is held on the 4th week of the month, normally on Tuesday, Wednesday, or Thursday.
 
 As a group, we discuss the latest Bitcoin news from a technical perspective. Sometimes diverging into adjacent fields of privacy, self hosting, free software, and more!
 
-**[See the meetup page](https://www.meetup.com/melbourne-bitcoin-only) to join our group and confirm event details!**
+**[See the meetup page]([https://www.meetup.com/bitcoin_sydney/]) to join our group and confirm event details!**
 
 Please feel free to ping someone in the community if joining approval is taking too long!
 
 ## News items for this month
 
-Please suggest any noteworthy topics for next month in the [GitHub issue](https://github.com/MelbourneBitDevs/MelbBitDevs/issues)! We're open to discussing pretty much anything Bitcoin or Bitcoin-adjacent!
+Please suggest any noteworthy topics for next month in the [GitHub issue](https://github.com/SydneyBitDevs/meetup/issues/)! We're open to discussing pretty much anything Bitcoin or Bitcoin-adjacent!
 
 ## Things to note
 
