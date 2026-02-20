@@ -1,1 +1,1 @@
-Next meetup: 28/11/2025
+Next meetup: 26/02/2026
